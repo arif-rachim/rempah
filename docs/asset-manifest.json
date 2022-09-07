@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rempah/static/css/main.d95c9ca0.css",
-    "main.js": "/rempah/static/js/main.6fbc7df7.js",
+    "main.js": "/rempah/static/js/main.a974c3ee.js",
     "static/js/787.5ab874d9.chunk.js": "/rempah/static/js/787.5ab874d9.chunk.js",
     "static/media/Menu-16-2-Nasi Padang.jpg": "/rempah/static/media/Menu-16-2-Nasi Padang.7966c3d1fb6555eec535.jpg",
     "static/media/Menu-02-Seafood Padang.jpg": "/rempah/static/media/Menu-02-Seafood Padang.fae9dd49585c6fff69a3.jpg",
@@ -36,11 +36,11 @@
     "static/media/Menu-18-2-Drinks Preambule.jpg": "/rempah/static/media/Menu-18-2-Drinks Preambule.dd4c4748b971971fa85e.jpg",
     "index.html": "/rempah/index.html",
     "main.d95c9ca0.css.map": "/rempah/static/css/main.d95c9ca0.css.map",
-    "main.6fbc7df7.js.map": "/rempah/static/js/main.6fbc7df7.js.map",
+    "main.a974c3ee.js.map": "/rempah/static/js/main.a974c3ee.js.map",
     "787.5ab874d9.chunk.js.map": "/rempah/static/js/787.5ab874d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d95c9ca0.css",
-    "static/js/main.6fbc7df7.js"
+    "static/js/main.a974c3ee.js"
   ]
 }

@@ -38,7 +38,7 @@ function App() {
             clickable: true,
         }}
         modules={[Lazy,Pagination,Navigation]}
-        lazy={{loadPrevNext:true,loadPrevNextAmount:3}}
+        lazy={{loadPrevNext:true,loadPrevNextAmount:10}}
     >
         {imageDataSource.map(value => {
             return <SwiperSlide key={value} style={{background:'black',width:imageWidth,height:imageHeight}} >
